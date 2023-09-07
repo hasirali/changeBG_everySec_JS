@@ -1,0 +1,43 @@
+/* style.css */
+
+/* Apply some basic styles to the body and center the content */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #212121;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the heading */
+h1 {
+    font-size: 24px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+/* Style the buttons */
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* Add some styles for the "Start" button */
+#start {
+    background-color: #4CAF50;
+    color: white;
+    /* border: none; */
+    border-radius: 8px;
+
+}
+
+/* Add some styles for the "Stop" button */
+#stop {
+    background-color: #f44336;
+    color: white;
+    /* bor  der: none; */
+    /* border: 1px solid black; */
+    border-radius: 8px;
+}
